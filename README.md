@@ -6,7 +6,7 @@ Welcome to the project on downloading the COCO dataset from a JSON file! This ap
 
 ![](https://github.com/DarkShrill/CocoDatasetDownloader/blob/master/stuff/coco_dataset_downloader.PNG)
 
-![](https://github.com/DarkShrill/CocoDatasetDownloader/blob/master/stuff/coco_dataset_downloader_2.PNG)
+![](https://github.com/DarkShrill/CocoDatasetDownloader/blob/master/stuff/coco_dataset_downloader__2.PNG)
 
 ![](https://github.com/DarkShrill/CocoDatasetDownloader/blob/master/stuff/coco_dataset_downloader_3.PNG)
 
